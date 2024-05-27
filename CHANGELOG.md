@@ -14,3 +14,6 @@ All notable changes to `Soft UI Dashboard PRO TALL` will be documented in this f
 - Category Management
 - Tag Management
 - Item Management
+
+## [1.1.0]
+### Update to Laravel 11.x
